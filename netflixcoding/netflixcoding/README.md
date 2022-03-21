@@ -1,16 +1,3 @@
-# netflixcoding
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+유튜브에서 넷플릭스를 앱으로 구현하는 영상물을 우연히 보게되었고 흥미가 생겨, 코드를 공부하며, 클론코딩해보았다.
+프론트엔드 쪽은 플러터로 현재 넷플릭스의 UI를 특정 부분 따라하여 구현하였고, DB쪽은 파이어베이스와 연동하여 영화나 드라마 정보를 파이어베이스로부터 받아오게 된다.
+검색, 찜하기, 영상물에 대한 정보를 확인하는 기능 등을 추가하였다.
